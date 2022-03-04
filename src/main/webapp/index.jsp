@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 class="red-text" style="color: red;">Deployed using Jenkins, Ansible twice </h2>
+<h2 class="orange-text" style="color: orange;">Deployed using Jenkins, Ansible again </h2>
 </body>
 </html>
